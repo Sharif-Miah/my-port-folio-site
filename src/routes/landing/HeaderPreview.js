@@ -10,8 +10,9 @@ const HeaderPreview = () => {
       </h1>
       <p className="gray-text p-tag">Front End Development</p>
       <Link className="pink-text" to="/portfolio">
-        Check my work
+        Downlod CV
       </Link>
+      
     </article>
   );
 };
