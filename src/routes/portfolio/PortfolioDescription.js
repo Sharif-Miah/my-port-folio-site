@@ -9,7 +9,7 @@ const PortfolioDescription = () => {
         challenges to learn the basics. You can check them on my{" "}
         <span>
           <a
-            href="https://github.com/farhan-sharif"
+            href="https://github.com/Sharif-Miah"
             className="pink-text"
             target="_blank"
             rel="noreferrer"
